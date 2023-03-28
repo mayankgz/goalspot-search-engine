@@ -1,0 +1,17 @@
+
+img{
+    width:220px;
+    padding:10px;
+    flex-basis: 40%;
+    margin: auto;
+}
+#home{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: auto;
+}
+#btn{
+    size: 100px;
+}
